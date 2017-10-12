@@ -77,7 +77,10 @@ Krav til indstilling til eksamen
 Bedømmelsesform og censur
 - Opgaven bedømmes på 7-trinsskalaen uden ekstern censur 
 
-Karakter | Kriterier for bedømmelse
+
+## Kriterier for bedømmelse
+
+Karakter | Beskrivelse 
 ----- | --------------------
 12 | Karakteren 12 gives for den fremragende præstation, dvs. hvor den studerende med ingen eller få og uvæsentlige mangler og på selvstændig og overbevisende måde er i stand til at indfri målbeskrivelsen for udbuddet.
 07 | Karakteren 7 gives for den gode præstation, dvs. hvor den studerende, om end med adskillige mangler, på sikker vis er i stand til at indfri målbeskrivelsen for udbuddet.
