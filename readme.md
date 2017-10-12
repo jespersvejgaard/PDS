@@ -5,7 +5,7 @@ I 2008 lancerede Google sin service Google Flu Trends, der gjorde Google i stand
 Data science er en videnskab såvel som en kunst, hvor formålet er at ekstrahere viden og indsigter fra data. Processen består både i at hente, transformere, visualisere og analysere data – ofte med redskaber, som ikke indgår i den almindelige politologiske værktøjskasse. Formålet med kurset er at klæde de studerende på til selv at give sig i kast med nogle af de metoder og værktøjer, som er nybrud i politologien, fx i forbindelse med et speciale. 
 
 Centrale emner i kurset vil være: 
-1. Hente data: Skaffe data fra alsidige datakilder såsom med scraping og API’er
+1. 	Hente data: Skaffe data fra alsidige datakilder såsom med scraping og API’er
 2.	Præ-processering: Gøre data tidy og klar til analyse ved transformation af data
 3.	Visualisering: Præsentere data på en intuitiv og appetitvækkende facon
 4.	Statistisk læring: Klassificere og forudsige om data ved brug af især superviseret maskinlæring, såsom Random Forest og Gradient Boosted Trees
@@ -38,7 +38,7 @@ Lektion	|	Tema				|	Indhold								|	Litteratur
 11		|						|	Usuperviseret læring				|
 12		|						|	Superviseret læring					|
 13		|	Afrunding			|	Refleksioner data science			|
-14		|						|	Opsamling og Eksamen|				|
+14		|						|	Opsamling og eksamen				|
 
 
 ## Undervisningsmateriale
