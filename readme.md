@@ -21,7 +21,7 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 ## Lektionsplan
 
-*Her følger lektionsplan.*
+*Her følger lektionsplanen.*
 
 
 ## Undervisningsmateriale
@@ -77,14 +77,15 @@ Krav til indstilling til eksamen
 Bedømmelsesform og censur
 - Opgaven bedømmes på 7-trinsskalaen uden ekstern censur 
 
-
-## Kriterier for bedømmelse
-
-Karakter | Beskrivelse
+Karakter | Kriterier for bedømmelse
 ----- | --------------------
 12 | Karakteren 12 gives for den fremragende præstation, dvs. hvor den studerende med ingen eller få og uvæsentlige mangler og på selvstændig og overbevisende måde er i stand til at indfri målbeskrivelsen for udbuddet.
 07 | Karakteren 7 gives for den gode præstation, dvs. hvor den studerende, om end med adskillige mangler, på sikker vis er i stand til at indfri målbeskrivelsen for udbuddet.
 02 | Karakteren 02 gives for den tilstrækkelige præstation, dvs. den minimalt acceptable præstation, hvor den studerende kun usikkert, mangelfuldt og/​​eller uselvstændigt er i stand til at indfri målbeskrivelsen for udbuddet.
+
+
+## Arbejdsbelastning
+28 timers holdundervisning.  
 
 
 
