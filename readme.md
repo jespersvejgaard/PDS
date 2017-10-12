@@ -1,10 +1,5 @@
 ## Political Data Science
 
-Faget undervises af cand.scient.pol Jesper Svejgaard Jensen. 
-
-
-## Kursusindhold
-
 I 2008 lancerede Google sin service Google Flu Trends, der gjorde Google i stand til at forudsige influenza-udbrud flere uger før nationale sundhedsmyndigheder var i stand til at identificere samme udbrud. Google Flu Trends er et eksempel på, hvordan data science kan bruges til at få værdifulde indsigter fra data, der kan danne baggrund for politisk handling.  
 
 Data science er en videnskab såvel som en kunst, hvor formålet er at ekstrahere viden og indsigter fra data. Processen består både i at hente, transformere, visualisere og analysere data – ofte med redskaber, som ikke indgår i den almindelige politologiske værktøjskasse. Formålet med kurset er at klæde de studerende på til selv at give sig i kast med nogle af de metoder og værktøjer, som er nybrud i politologien, fx i forbindelse med et speciale. 
@@ -53,6 +48,11 @@ Kursets målsætning er at klæde den studerende på til at kunne:
 Det forudsættes, at man har gennemført de obligatoriske metodekurser på bacheloruddannelsen i statskundskab, eller tilsvarende. 
 
 Det er ikke en forudsætning at have kendskab til R i forvejen, men det er en forudsætning at have mod på at arbejde i R. 
+
+
+## Fagets underviser
+
+Faget undervises af cand.scient.pol Jesper Svejgaard Jensen. 
 
 
 ## Undervisningsform
