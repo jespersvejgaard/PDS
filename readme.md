@@ -65,8 +65,6 @@ Sker via selvbetjeningen på KUnet.
 
 ## Eksamen
 
-**Eksamensform:**
-
 Point
 - 7,5 ECTS
 
@@ -76,14 +74,11 @@ Prøveform
 Krav til indstilling til eksamen
 - En betingelse for at bestå seminarer er, at den studerende har deltaget aktivt i seminaret, dels gennem tilstedeværelse i minimum 75% af undervisningen og dels gennem aktiv deltagelse
 
-Bedømmelsesform
-- 7-trins skala
-
-Censurform
-- Ingen ekstern censur
+Bedømmelsesform og censur
+- Opgaven bedømmes på 7-trinsskalaen uden ekstern censur 
 
 
-**Kriterier for bedømmelse:**
+## Kriterier for bedømmelse
 
 Karakter | Beskrivelse
 ----- | --------------------
