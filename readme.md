@@ -67,11 +67,21 @@ Sker via selvbetjeningen på KUnet.
 
 **Eksamensform:**
 
-Point | 7,5 ECTS
-Prøveform | Seminaropgave
-Krav til indstilling til eksamen | En betingelse for at bestå seminarer er, at den studerende har deltaget aktivt i seminaret, dels gennem tilstedeværelse i minimum 75% af undervisningen og dels gennem aktiv deltagelse
-Bedømmelsesform | 7-trins skala
-Censurform | Ingen ekstern censur
+Point
+- 7,5 ECTS
+
+Prøveform
+- Eksamen består af en selvstændig seminaropgave i form af en kvantitativ analyse af data. Opgaven kan være en ny problemstilling eller et replikationsstudium med afsæt i et eksisterende studium. <!-- Inspiration til data kan findes i [dette datasæt](https://github.com/erikgahner/PolData) over politologiske datasæt. -->
+
+Krav til indstilling til eksamen
+- En betingelse for at bestå seminarer er, at den studerende har deltaget aktivt i seminaret, dels gennem tilstedeværelse i minimum 75% af undervisningen og dels gennem aktiv deltagelse
+
+Bedømmelsesform
+- 7-trins skala
+
+Censurform
+- Ingen ekstern censur
+
 
 **Kriterier for bedømmelse:**
 
@@ -81,7 +91,6 @@ Karakter | Beskrivelse
 07 | Karakteren 7 gives for den gode præstation, dvs. hvor den studerende, om end med adskillige mangler, på sikker vis er i stand til at indfri målbeskrivelsen for udbuddet.
 02 | Karakteren 02 gives for den tilstrækkelige præstation, dvs. den minimalt acceptable præstation, hvor den studerende kun usikkert, mangelfuldt og/​​eller uselvstændigt er i stand til at indfri målbeskrivelsen for udbuddet.
 
-<!-- comment --> 
 
 
 
