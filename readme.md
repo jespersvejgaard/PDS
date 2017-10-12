@@ -21,7 +21,24 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 ## Lektionsplan
 
-*Her følger lektionsplanen.*
+*Her følger en tentativ lektionsplan.*
+
+Lektion	|	Tema				|	Indhold								|	Litteratur
+--------|-----------------------|---------------------------------------|----------------------------
+1		|	R					|	Intro til kurset og R				|
+2		|						|	R workshop I						|
+3		|						|	R workshop II						|
+4		|	Data-manipulation	|	Visualisering						|
+5		|						|	Tidy data I							|
+6		|						|	Tidy data II						|
+7		|	Data-indsamling		|	Web scraping						|
+8		|						|	API'er								|
+9		|						|	Text som data						|
+10		|	Statistisk læring	|	Regression som statistisk læring	|	
+11		|						|	Usuperviseret læring				|
+12		|						|	Superviseret læring					|
+13		|	Afrunding			|	Refleksioner data science			|
+14		|						|	Opsamling og Eksamen|				|
 
 
 ## Undervisningsmateriale
