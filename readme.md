@@ -49,7 +49,7 @@ Kursets litteratur vil hovedsageligt bestå af kapitler fra lærebøger samt art
 
 En del af litteraturen vil desuden udgøres af dokumentationen for anvendte pakker i R mv. 
 
-Kursusmaterialet vil desuden bestå af online-ressourcer fra DataCamp[https://www.datacamp.com]. 
+Kursusmaterialet vil desuden bestå af online-ressourcer fra [DataCamp](https://www.datacamp.com). 
 
 
 ## Målbeskrivelse
