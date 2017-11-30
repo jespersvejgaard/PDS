@@ -47,8 +47,9 @@ Kursets litteratur vil hovedsageligt bestå af kapitler fra lærebøger samt art
 - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning* (Vol. 112). New York: Springer.
 - Wickam, Hadley & Grolemund, Garrett (2016). *R for Data Science*. O’Reilly Media. 
 
-
 En del af litteraturen vil desuden udgøres af dokumentationen for anvendte pakker i R mv. 
+
+Kursusmaterialet vil desuden bestå af online-ressourcer fra DataCamp[https://www.datacamp.com]. 
 
 
 ## Målbeskrivelse
