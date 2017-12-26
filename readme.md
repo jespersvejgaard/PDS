@@ -23,22 +23,22 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 *Her følger en tentativ lektionsplan.*
 
-Lektion	|	Tema				|	Indhold								|	Litteratur 																	| DataCamp 																		 	| Supplerende & inspiration
---------|-----------------------|---------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------
-1		|	R					|	Intro til kurset og R				|  	Leeper (2016), <br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1 - 3  | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 		| Imai (2016): kap 1, </b> [Cheat sheet: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [Cheat sheet: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
-2		|	R					|	R workshop I						|
-3		|						|	R workshop II						|
-4		|	Data-manipulation	|	Visualisering						|
-5		|						|	Tidy data I							|
-6		|						|	Tidy data II						|
-7		|	Data-indsamling		|	Web scraping						|
-8		|						|	API'er								|
-9		|						|	Text som data						|
-10		|	Statistisk læring	|	Regression som statistisk læring	|	
-11		|						|	Usuperviseret læring				|
-12		|						|	Superviseret læring					|
-13		|	Afrunding			|	Refleksioner data science			|
-14		|						|	Opsamling og eksamen				|
+Lektion	|	Indhold													|	Litteratur 																	| DataCamp 																		 	| Supplerende & inspiration
+--------|-----------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------
+1		|	Intro til kurset og R									|  	Leeper (2016), <br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1 - 3  | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 		| Imai (2016): kap 1, </b> [CS: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [CS: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+2		|	R workshop I: </br> Explore								|
+3		|	R workshop II: <br> Import, tidy, transform				|
+4		|	R workshop III:	</br> Programmering & version control	|
+5		|	Web scraping & API										|
+6		|	Visualisering I											|
+7		|	Visualisering II										|
+8		|	Tekst som data											|
+9		|	Estimation & prædiktion									|
+10		|	Superviseret læring I 									|	
+11		|	Superviseret læring II									|
+12		|	Usuperviseret læring									|
+13		|	Refleksioner data science								|
+14		|	Opsamling og eksamen									|
 
 
 ## Undervisningsmateriale
