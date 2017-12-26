@@ -23,12 +23,12 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 *Her følger en tentativ lektionsplan.*
 
-Lektion	|	Indhold													|	Litteratur 																	| DataCamp 																		 	| Supplerende & inspiration
+Nr    	|	Indhold													|	Litteratur 																	| DataCamp 																		 	| Supplerende & inspiration
 --------|-----------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------
 1		|	Intro til kurset og R									|  	Leeper (2016), <br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1 - 3  | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 		| Imai (2016): kap 1, </b> [CS: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [CS: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
-2		|	R workshop I: </br> Explore								|
-3		|	R workshop II: <br> Import, tidy, transform				|
-4		|	R workshop III:	</br> Programmering & version control	|
+2		|	R workshop I: Explore								|
+3		|	R workshop II: Import, tidy, transform				|
+4		|	R workshop III:	Programmering & version control	|
 5		|	Web scraping & API										|
 6		|	Visualisering I											|
 7		|	Visualisering II										|
