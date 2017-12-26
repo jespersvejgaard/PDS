@@ -25,7 +25,7 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 Lektion	|	Tema				|	Indhold								|	Litteratur
 --------|-----------------------|---------------------------------------|----------------------------
-1		|	R					|	Intro til kurset og R				|
+1		|	R					|	Intro til kurset og R				|  @r4ds
 2		|						|	R workshop I						|
 3		|						|	R workshop II						|
 4		|	Data-manipulation	|	Visualisering						|
@@ -50,6 +50,9 @@ Kursets litteratur vil hovedsageligt bestå af kapitler fra lærebøger samt art
 En del af litteraturen vil desuden udgøres af dokumentationen for anvendte pakker i R mv. 
 
 Kursusmaterialet vil desuden bestå af online-ressourcer fra [DataCamp](https://www.datacamp.com). 
+
+
+# References 
 
 
 ## Målbeskrivelse
