@@ -23,9 +23,9 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 *Her følger en tentativ lektionsplan.*
 
-Nr    	|	Indhold													|	Litteratur 																	| DataCamp 																		 								| Supplerende
---------|-----------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------
-1		|	Intro til kurset og R									|  	Leeper (2016), </br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1-3 	| [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 									| Imai (2016): kap 1, </b> [CS: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [CS: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+Nr    	|	Indhold													|	Litteratur 																	| DataCamp 																		 								| Supplerende |
+--------|-----------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------|
+1		|	Intro til kurset og R									|  	Leeper (2016), </br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1-3 	| [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 									| Imai (2016): kap 1, </br> [CS: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [CS: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 2		|	R workshop I: Explore									|	R4DS: kap 1-6, </br> CS: Data transformation 								| [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)				| Zhang (2017), </br> Wickham (2014), </br> Risdal (2016)
 3		|	R workshop II: Import, </br> tidy, transform			|
 4		|	R workshop III:	Programmering </br>  & version control	|
@@ -54,7 +54,7 @@ Kursusmaterialet vil desuden bestå af online-ressourcer fra [DataCamp](https://
 
 
 - Risdal, M. (2016). *Exploring the Titanic Dataset*. Kaggle. [Link](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic).
- 
+
 
 
 
