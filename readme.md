@@ -25,7 +25,7 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 Lektion	|	Tema				|	Indhold								|	Litteratur 																	| DataCamp 																		 	| Supplerende & inspiration
 --------|-----------------------|---------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------
-1		|	R					|	Intro til kurset og R				|  	Leeper (2016), <br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1 - 3  | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 		| Imai (2016): kap 1, </b> [Cheat sheet: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> Cheat sheet: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+1		|	R					|	Intro til kurset og R				|  	Leeper (2016), <br> R4DS: kap 1 afs 1.1-1.6, </br> Healy (2017): kap 1 - 3  | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) 		| Imai (2016): kap 1, </b> [Cheat sheet: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br> [Cheat sheet: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 2		|	R					|	R workshop I						|
 3		|						|	R workshop II						|
 4		|	Data-manipulation	|	Visualisering						|
