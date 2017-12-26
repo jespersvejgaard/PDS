@@ -25,7 +25,7 @@ Kurset kan både stå alene og supplere kurset *Videregående kvantitative metod
 
 Lektion	|	Tema				|	Indhold								|	Litteratur
 --------|-----------------------|---------------------------------------|----------------------------
-1		|	R					|	Intro til kurset og R				|  [Leeper (2016)](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf), [R4DS: kap 1 afsnit 1.1-1.6](http://r4ds.had.co.nz/introduction.html), [Healy (2017): kap 1 - 3](http://plain-text.co/plain-person-text.pdf)
+1		|	R					|	Intro til kurset og R				|  [Leeper (2016)](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf); </br> [R4DS](http://r4ds.had.co.nz/introduction.html): kap 1 afsnit 1.1-1.6]; </br> [Healy (2017)](http://plain-text.co/plain-person-text.pdf): kap 1 - 3
 2		|	R					|	R workshop I						|
 3		|						|	R workshop II						|
 4		|	Data-manipulation	|	Visualisering						|
