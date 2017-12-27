@@ -28,9 +28,9 @@ Nr    	|	Indhold													|	Litteratur 																	| DataCamp 										
 1		|	Intro til kurset og R									|  	[Leeper (2016)](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf), </br> [R4DS: kap 1](http://r4ds.had.co.nz/introduction.html), </br>  [Healy (2017): kap 1-3](http://plain-text.co/plain-person-text.pdf) | [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) | [Imai (2016): kap 1](http://assets.press.princeton.edu/chapters/s11025.pdf), </br>  [CS: RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf), </br>  [CS: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 2		|	R workshop I: </br> Explore								|	[R4DS: kap 2-6](http://r4ds.had.co.nz/explore-intro.html), </br>  [CS: Transformation](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf) | [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse) | [Zhang (2017)](https://github.com/underthecurve/r-data-cleaning-tricks/raw/master/R-datacleaning-tricks.pdf), </br>  [Wickham (2014)](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf), </br>  [Risdal (2016)](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
 3		|	R workshop II: </br> Import, tidy, transform			|	[R4DS: kap 9-13](http://r4ds.had.co.nz/wrangle-intro.html), </br>  [CS: Data import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf) | [Cleaning data](https://www.datacamp.com/courses/cleaning-data-in-r), </br>  [Data manipulation](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial), </br>  [Joining data](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr) | [R4DS: kap 14-16](http://r4ds.had.co.nz/strings.html), </br>  [Spachtholz (2017)](https://www.kaggle.com/philippsp/exploratory-analysis-zillow), </br>  [Importing data p.1](https://www.datacamp.com/courses/importing-data-in-r-part-1), </br>  [Importing data p.2](https://www.datacamp.com/courses/importing-data-in-r-part-2)
-4		|	R workshop III:	</br> Programmering & Git				| 	[R4DS: kap 17-19](http://r4ds.had.co.nz/program-intro.html)
-5		|	Web scraping & API										|
-6		|	Visualisering I											|
+4		|	R workshop III:	</br> Programmering & Git				| 	[R4DS: kap 17-19](http://r4ds.had.co.nz/program-intro.html), </br> 
+5		|	Web scraping & API										|	[The Economist (2016)](http://www.economist.com/blogs/economist-explains/2016/05/economist-explains-20?fsrc=scn/tw/te/bl/ed/), </br> 
+6		|	Visualisering I											|	[R4DS: kap 3](http://r4ds.had.co.nz/data-visualisation.html), </br> [DVSS: "Before you begin"](http://socviz.co/index.html#install), </br> [DVSS: kap 3 + 8](http://socviz.co/makeplot.html#makeplot), </br> [CS: Visualisation](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf) | [Data visualisation](https://www.datacamp.com/courses/data-visualization-in-r) | [FiveThirtyEight.com (2016)](http://fivethirtyeight.com/features/how-we-charted-trumps-fall-from-grace-in-hip-hop), </br> [DVSS: kap 2](http://socviz.co/lookatdata.html#lookatdata), </br> [Schwabish (2014)](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209), </br> [ggplot2 p.1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1), </br> [ggplot2 p.2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2), </br> [ggplot2 p.3](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3)
 7		|	Visualisering II										|
 8		|	Tekst som data											|
 9		|	Estimation & prædiktion									|
@@ -39,6 +39,11 @@ Nr    	|	Indhold													|	Litteratur 																	| DataCamp 										
 12		|	Usuperviseret læring									|
 13		|	Refleksioner data science								|
 14		|	Opsamling og eksamen									|
+
+
+
+
+
 
 
 ## Undervisningsmateriale
