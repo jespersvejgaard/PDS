@@ -43,7 +43,7 @@ Nr    	|	Indhold													|	Litteratur 																	| DataCamp 										
 ## Undervisningsmateriale
 Seminarets litteratur er angivet i lektionsplanen ovenfor. Kolonnen "litteratur" angiver det obligatoriske pensum, hvor særligt to titler står entralt: 
 
-- R4DS: Wickam, Hadley & Grolemund, Garrett (2016). *R for Data Science*. O’Reilly Media.
+- R4DS: Wickam, H. & Grolemund, G. (2016). *R for Data Science*. O’Reilly Media.
 - ISL: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning* (Vol. 112). New York: Springer.
 
 Undervisningsmaterialet består derudover af online-ressourcer fra [DataCamp](https://www.datacamp.com), som stilles til rådighed i faget. Herunder følger et overblik.
