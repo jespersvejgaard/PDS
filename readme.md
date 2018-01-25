@@ -41,7 +41,7 @@ Nr    	|	Indhold													|	Litteratur 																	| DataCamp 										
 
 
 ## Undervisningsmateriale
-Seminarets litteratur er angivet i lektionsplanen ovenfor. Kolonnen "litteratur" angiver det obligatoriske pensum, hvor særligt to titler står entralt: 
+Seminarets litteratur er angivet i lektionsplanen ovenfor. Kolonnen *Litteratur* angiver det obligatoriske pensum, hvor særligt to titler står entralt: 
 
 - R4DS: Wickam, H. & Grolemund, G. (2016). *R for Data Science*. O’Reilly Media.
 - ISL: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning* (Vol. 112). New York: Springer.
@@ -64,6 +64,8 @@ Undervisningsmaterialet består derudover af online-ressourcer fra [DataCamp](ht
 - [Supervised Learning in R: Regression](https://www.datacamp.com/courses/supervised-learning-in-r-regression)
 - [Machine Learning Toolbox&ast;](https://www.datacamp.com/courses/machine-learning-toolbox)
 - [Unsupervised Learning in R&ast;](https://www.datacamp.com/courses/unsupervised-learning-in-r)
+- [Exploratory Data Analysis&ast;](https://www.datacamp.com/courses/exploratory-data-analysis)
+
 
 #### Supplerende kurser
 - [Importing data in R (part 1)&ast;](https://www.datacamp.com/courses/importing-data-in-r-part-1)
@@ -79,7 +81,6 @@ Undervisningsmaterialet består derudover af online-ressourcer fra [DataCamp](ht
 - [Data Visualization with ggplot2 (part 3)&ast;](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3)
 - [Spatial Statistics in R](https://www.datacamp.com/courses/spatial-statistics-in-r)
 - [Introduction to Data&ast;](https://www.datacamp.com/courses/introduction-to-data)
-- [Exploratory Data Analysis&ast;](https://www.datacamp.com/courses/exploratory-data-analysis)
 - [Exploratory Data Analysis in R: Case Study&ast;](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
 - [Regression in R&ast;](https://www.datacamp.com/courses/correlation-and-regression)
 - [Foundations of Inference&ast;](https://www.datacamp.com/courses/foundations-of-inference)
@@ -87,21 +88,6 @@ Undervisningsmaterialet består derudover af online-ressourcer fra [DataCamp](ht
 
 
 &ast; kurserne markeret med stjerne udgør de 23 kurser i DataCamp's eget career track "Data Scientist with R"
-
-
-
-<!-- 
-
-
-	RESTERENDE LITTERATUR:
-
-	- Huang, D. & Gonzalez, I. (2017). Software Carpentry: Version Control with Git. https://swcarpentry.github.io/git-novice/
-
-
-
-
-
---> 
 
 
 
