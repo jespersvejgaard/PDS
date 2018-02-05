@@ -94,10 +94,11 @@ Undervisningsmaterialet består derudover af online-ressourcer fra [DataCamp](ht
 ## Målbeskrivelse
 Seminarets målsætning er at klæde den studerende på til at kunne: 
 
-- Håndtere og transformere data i R
+- Importere, håndtere, transformere og visualisere data i R
 - Forklare væsensforskellene mellem kausalestimation og prædiktion
-- Formulere og designe et prædiktionsproblem 
-- Anvende fagets metoder på et selvvalgt emne
+- Formulere og designe et prædiktionsproblem
+- Analysere et selvvalgt politologisk emne ved anvendelse af fagets metoder
+- Reflektere over fordele og ulemper ved fagets metoder 
 
 
 ## Anbefalede faglige forudsætninger
