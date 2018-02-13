@@ -41,7 +41,7 @@ getwd()
 
 
 # 6. SÆTTER DIRECTORY
-#setwd("/Users/.../")
+#setwd("/Users/.../.../")
 
 
 # 7. INSTALLERER & LOADER PAKKEN TIDYVERSE 
@@ -78,12 +78,6 @@ mean(seats$df, na.rm = TRUE)  # 23,8
 seats$RV_andel <- round(((seats$rv / seats$total) * 100), 1)
 seats$RV_andel
 
-ggplot(data = seats, aes(x = RV_andel)) + 
-  geom_bar()  # viser fordelingen på RV_andel, hvilket ikke helt er det, vi ønsker
-
-ggplot(data = seats, aes(x = year, y = RV_andel)) + 
-  geom_bar(stat = "identity")  # viser fordelingen af RV_andel over år, men vi skal hjælpe geom_bar() 
-
 ggplot(data = seats, aes(x = year, y = RV_andel)) +
   geom_col()  # viser fordelingen af RV_andel over år
 
@@ -100,7 +94,6 @@ mandater_k_over30 <- seats$k > 30
 mandater_k_over30
 
 seats$year[mandater_k_over30]  # 1960 1964 1966 1968 1971 1984 1987 1988
-seats$year[seats$k > 30]
 
 
 
