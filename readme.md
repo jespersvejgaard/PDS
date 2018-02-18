@@ -143,7 +143,6 @@ Karakter | Beskrivelse
 07 | Karakteren 7 gives for den gode præstation, dvs. hvor den studerende, om end med adskillige mangler, på sikker vis er i stand til at indfri målbeskrivelsen for udbuddet.
 02 | Karakteren 02 gives for den tilstrækkelige præstation, dvs. den minimalt acceptable præstation, hvor den studerende kun usikkert, mangelfuldt og/​​eller uselvstændigt er i stand til at indfri målbeskrivelsen for udbuddet.
 
-pds-test
 
 ## Arbejdsbelastning
 28 timers holdundervisning.  
