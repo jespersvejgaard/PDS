@@ -10,7 +10,7 @@ library(tidyverse)
 # OPGAVE 1
 #######################################
 
-# 1. Installer og load pakken nycflights13 
+# 1. INSTALLER OG LOAD PAKKEN `nycflights13` 
 library(nycflights13)
 
 
@@ -61,11 +61,11 @@ flights %>% filter(month == 12 & day == 20)  # 980 fly, tillyke med det!
 flights %>% filter(arr_delay > 120)  # mere end 2 timer forsinkede
 flights %>% filter(carrier == "AA" | carrier == "OO")  # blev opereret af AA eller OO
 flights %>% filter(month == 12)  # afgik i december
-flights %>% filter(dep_delay > 0 & 0 >= arr_delay)  # 35.442 afgange
+flights %>% filter(dep_delay > 0 & 0 >= arr_delay) # 35.442 afgange
 
   
 # 3. FLY MED MISSING I DEP_TIME
-flights %>% filter(is.na(dep_time)) %>% dim()  # 8255 har NA i dep_time
+flights %>% filter(is.na(dep_time)) %>% count()  # 8255 har NA i dep_time
 
 
 #######################################
@@ -91,7 +91,7 @@ select(flights, contains("TIME"))  # vi får udvalgt alle kolonner hvor "time" i
 # 1. BRUG DEP_TIME TIL AT LAVE DEP_HOUR OG DEP_MINUTE
 flights_edt <- flights %>% 
   mutate(dep_hour = dep_time %/% 100,  # integer division
-         dep_minute = dep_time %% 100)  # remainder 
+         dep_minute = dep_time %% 100)  # remainder (modulo)
 
 
 # 2. LAV EN VARIABEL GAIN, SOM ER DEN INDHENTEDE FORSINKELSE UNDER FLYVNING
@@ -180,7 +180,7 @@ flights_carriers <- flights %>%
             flights = n())
 
 ggplot(flights_carriers, aes(x = carrier, y = delay_mean, fill = carrier)) +
-  geom_col()
+  geom_col()  # alternativ: geom_bar(stat = "identity")
 
 
 #######################################
@@ -233,7 +233,12 @@ ggplot(flights_ny, aes(x = hour, y = dep_delay_mean)) +
   scale_x_continuous(breaks = seq(5, 23, 1),
                      limits = c(5, 23))  # fund: forsinkelsen akkumulerer indtil kl. 19
   
-
+# PLOTTER ARR_DELAY MOD TIME-TALLET
+ggplot(flights_ny, aes(x = hour, y = arr_delay_mean)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(breaks = seq(5, 23, 1),
+                     limits = c(5, 23))  # fund: akkumulerer indtil kl. 21
 
 
 
