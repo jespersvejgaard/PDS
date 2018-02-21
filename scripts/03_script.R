@@ -130,6 +130,9 @@ glimpse(wb)  # ser ud til 1) Indicator Name/Code ikke varierer, 2) Værdier i ko
 table(wb$`Indicator Code`)  # ingen variation
 table(wb$`Indicator Name`)  # ingen variation
 
+count(wb, `Indicator Code`)  # ingen variation
+count(wb, `Indicator Name`)  # ingen variation
+
 summary(wb$X63)
 sum(is.na(wb$X63))  # kun NA
 
