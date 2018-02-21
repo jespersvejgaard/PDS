@@ -44,7 +44,8 @@ arrange(flights, year, month, day, dep_time)
 
 
 # 3. HVOR FORSINKET VAR DE 10 MEST FORSINKEDE FLY TILSAMMEN?
-arrange(flights, desc(arr_delay)) %>% 
+flights %>% 
+  arrange(desc(arr_delay)) %>% 
   head(n = 10) %>% 
   summarize(total_delay = sum(arr_delay))
 
@@ -58,10 +59,10 @@ flights %>% filter(month == 12 & day == 20)  # 980 fly, tillyke med det!
 
 
 # 2. FIND AFGANGE:
-flights %>% filter(arr_delay > 120)  # mere end 2 timer forsinkede
-flights %>% filter(carrier == "AA" | carrier == "OO")  # blev opereret af AA eller OO
-flights %>% filter(month == 12)  # afgik i december
-flights %>% filter(dep_delay > 0 & 0 >= arr_delay) # 35.442 afgange
+flights %>% filter(arr_delay > 120) %>% count() # mere end 2 timer forsinkede
+flights %>% filter(carrier == "AA" | carrier == "OO") %>% count() # blev opereret af AA eller OO
+flights %>% filter(month == 12) %>% count()  # afgik i december
+flights %>% filter(dep_delay > 0 & 0 >= arr_delay) %>% count() # afgik forsinket men ankom til tiden eller før
 
   
 # 3. FLY MED MISSING I DEP_TIME
@@ -72,7 +73,7 @@ flights %>% filter(is.na(dep_time)) %>% count()  # 8255 har NA i dep_time
 # OPGAVE 4
 #######################################
 
-# 1. LAVER EN DF MED ALLE VAR UNDTAGET TAILNUM
+# 1. LAVER EN DF MED ALLE VAR. UNDTAGET TAILNUM
 flights_no_tailnum <- flights %>% select(-tailnum)
 
 
@@ -147,8 +148,7 @@ flights %>%
 # 2. HVILKEN MÅNED ER AFGANGSFORSINKELSEN HØJEST?
 flights %>% 
   group_by(month) %>% 
-  summarize(mean_delay = mean(arr_delay, na.rm = T)) %>% 
-  View()
+  summarize(mean_delay = mean(arr_delay, na.rm = T))
 
 
 # 3. HVILKE DESTINATIONER KAN MAN FLYVE TIL/FRA MED FLEST FORSKELLIGE SELSKABER?
@@ -176,10 +176,9 @@ flights %>%
 # REKONSTRUERER FIGUR MED SELSKABERNES GNS. ARR_DELAY
 flights_carriers <- flights %>% 
   group_by(carrier) %>% 
-  summarise(delay_mean = mean(arr_delay, na.rm = T),
-            flights = n())
+  summarise(delay_mean = mean(arr_delay, na.rm = T))
 
-ggplot(flights_carriers, aes(x = carrier, y = delay_mean, fill = carrier)) +
+ggplot(flights_carriers, aes(x = carrier, y = delay_mean, fill = carrier)) + x
   geom_col()  # alternativ: geom_bar(stat = "identity")
 
 
