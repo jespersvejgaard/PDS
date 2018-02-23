@@ -1,4 +1,6 @@
-## Political Data Science
+## Political Data Science - test
+
+ny linje ogs�
 
 I 2008 lancerede Google sin service Google Flu Trends, der gjorde Google i stand til at forudsige influenza-udbrud flere uger før nationale sundhedsmyndigheder var i stand til at identificere samme udbrud. Google Flu Trends er et eksempel på, hvordan data science kan bruges til at få værdifulde indsigter fra data, der kan danne baggrund for politisk handling.  
 
