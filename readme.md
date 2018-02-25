@@ -147,8 +147,7 @@ Karakter | Beskrivelse
 ## Arbejdsbelastning
 28 timers holdundervisning.  
 
-
-
+test
 
 
 
