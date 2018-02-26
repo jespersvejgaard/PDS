@@ -160,7 +160,3 @@ Karakter | Beskrivelse
 
 
 
-
-
-
-
