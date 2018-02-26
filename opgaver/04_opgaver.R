@@ -30,6 +30,8 @@ f_sum <- function(a, b){
 Her. 
 
 
+
+
 # 4. Skriv et for-loop, som looper igennem alle kolonnerne i dataframen `seats` og beregner partiernes gennemsnitlige antal mandater
 # 5. Brug `lapply()`, `sapply()`, `vapply()` eller `map_dbl()` til at beregne det samme
 # 6. Skriv en funktion, som simulerer et terningekast (hint: `sample()`)
