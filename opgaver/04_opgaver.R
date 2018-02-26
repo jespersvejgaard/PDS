@@ -19,6 +19,9 @@ seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/
 # OPGAVER
 ######################################################
 
+# Bemærk: Bliver ae, ao og aa skrevet forkert? Så klik filer -> reopen with encoding -> vælg UTF-8 -> sæt flueben i "Set as default..." -> OK
+
+
 # 1. Eksekvér præamblen ovenfor 
 # 2. Skriv en funktion, som tager to vektorer som argumenter, summerer dem og returnerer resultatet. 
 # 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.  
