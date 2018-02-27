@@ -19,6 +19,8 @@ seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/
 # OPGAVER
 ######################################################
 
+## BLA BLA BLA BLA BLA 
+
 # Bemærk: Bliver ae, ao og aa skrevet forkert? Så klik filer -> reopen with encoding -> vælg UTF-8 -> sæt flueben i "Set as default..." -> OK
 
 # 1. Eksekvér præamblen ovenfor 
