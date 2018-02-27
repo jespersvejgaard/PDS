@@ -30,6 +30,19 @@ sum_result <- function(x,y){
 sum_result(5,2)
 
 # 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.  
+sd_func <- function(x) {
+  if(length(x)<30){
+    print("N er under 30!")
+    break
+  } else {
+    print(sd(x))
+  }
+}
+
+sd_func(x)
+sd_func(y)
+sd_func(z)
+
 # 4. Skriv et for-loop, som looper igennem alle kolonnerne i dataframen `seats` og beregner partiernes gennemsnitlige antal mandater
 # 5. Brug `lapply()`, `sapply()`, `vapply()` eller `map_dbl()` til at beregne det samme
 # 6. Skriv en funktion, som simulerer et terningekast (hint: `sample()`)
