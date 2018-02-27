@@ -5,6 +5,7 @@
 
 # LOADER PAKKER
 library(tidyverse)
+library(stringr)
 
 
 #######################################
