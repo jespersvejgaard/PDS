@@ -44,6 +44,23 @@ sd_func(y)
 sd_func(z)
 
 # 4. Skriv et for-loop, som looper igennem alle kolonnerne i dataframen `seats` og beregner partiernes gennemsnitlige antal mandater
+glimpse(seats)
+seats_1 <- select(seats, 2:20)
+seats_vector <- vector("double", ncol(seats_1))
+                  
+for (parti in seq_along(seats_1)){
+  seats_vector[[parti]] <- round(mean(seats_1[[parti]], na.rm = T),2)
+}
+
+View(seats_vector)
+
+for (parti in seq_along(seats_1)){
+  print(mean(seats_1[[parti]], na.rm = T))
+}
+
+cbind(names(seats_1), seats_vector)
+
+
 # 5. Brug `lapply()`, `sapply()`, `vapply()` eller `map_dbl()` til at beregne det samme
 # 6. Skriv en funktion, som simulerer et terningekast (hint: `sample()`)
 # 7. Skriv et while-loop, som eksekverer funktionen terningekast indtil du har slået 3 seksere i streg. Hvor mange gange skal du slå, for at det sker?  
