@@ -60,8 +60,7 @@ dim(who_tidy)  # 405440 observationer og 7 variable - vi er altså gået fra et 
 #######################################
 
 # 1. TIDYR INDEHOLDER OGSÅ DATASÆTTET `population`. TJEK DET UD. HVIS DU VIL JOINE DET PÅ, HVILKE VARIABLE VIL SÅ VÆRE PRIMARY KEYS? OG HVAD BETYDER DET? 
-# primary keys er en kolonne eller en kombination af kolonner, som unikt identificerer 
-# hver en observation i datasættet. I vores tilfælde vil c("country", "year") være primary keys. 
+glimpse(population)  # komb. af kol. som unikt identificerer obs., her: c("country", "year")
 
 
 # 2. JOIN `population` PÅ `who` VIA LEFT_JOIN OG GEM DEN RESULTERENDE DATAFRAME I ET NYT OBJEKT
