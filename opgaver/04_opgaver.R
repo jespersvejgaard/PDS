@@ -12,7 +12,7 @@ x <- rnorm(10)
 y <- rnorm(30)
 z <- rnorm(90)
 
-seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/data/seats.csv")
+seats <- read.csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/data/seats.csv")
 
 
 ######################################################
