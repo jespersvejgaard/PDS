@@ -120,7 +120,7 @@ who_nona %>%
 #######################################
 
 # 1. INDLÆSER DATA FRA WB OM ANDEL AF BNP BRUGT PÅ SUNDHED FOR VERDENS LANDE
-wb <- read_csv("/Users/jespersvejgaard/Desktop/Desktop/Akademiet/Political Data Science/PDS under construction/data/API_SH.XPD.PUBL.ZS_DS2_en_csv_v2.csv", skip = 4)
+wb <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/data/wb_health_gdp.csv", skip = 4)
 
 
 # 2. UNDERSØGER DATASÆTTET - ER DET TIDY?
@@ -144,7 +144,7 @@ wb_tidy <- wb %>%
          health_pct = as.numeric(health_pct)) 
   
 
-# 4. FILTRERER `who` FOR ÅRET 2013 OG LAVER EN DATAFRAME MED LANDEKODER (ISO3) OG ANTAL TB-TILFÆLDE PER 100.INDBYGGERE
+# 4. FILTRERER `who` FOR ÅRET 2013 OG LAVER EN DATAFRAME MED LANDEKODER (ISO3) OG ANTAL TB-TILFÆLDE PER 100.000 INDBYGGERE
 who_2013 <- who_nona %>% 
   filter(year == 2013) %>% 
   group_by(iso3, population) %>% 
