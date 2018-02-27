@@ -22,7 +22,7 @@ dim(who)  # 7240 observationer og 60 variable
 
 # 3. ER DATA TIDY?
 glimpse(who)  # data er ikke tidy da der er i) redundante kolonner, ii) værdier i kolonnerne
-
+?who
 
 # 4. HVAD ER LOGIKKEN I VARIABEL-NAVNENE FRA `new_sp_m014` til `newrel_f65`? BRUG EVT `?who`
 # new = angiver om det er nye eller gamle tilfælde af TB, i datasættet her er kun nye tilfælde 
@@ -175,4 +175,5 @@ ggplot(who_wb_2013, aes(x = health_pct, y = tb_pop, color = `Country Name`)) +
             aes(x = health_pct, y = tb_pop, label = iso3), hjust = 1.2)  # næsten samme plot med lidt mere information 
 
 
-
+x <- "dig"
+paste("Hej med", x)
