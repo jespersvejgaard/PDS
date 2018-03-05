@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://oda.ft.dk/api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <m:count>6382</m:count>
+  <id>http://schemas.datacontract.org/2004/07/</id>
+  <title />
+  <updated>2018-03-05T10:45:55Z</updated>
+  <link rel="self" href="http://oda.ft.dk/api/Afstemning" />
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(1)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(1)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(1)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(1)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(1)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(1)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(1)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">1</d:id>
+        <d:nummer m:type="Edm.Int32">411</d:nummer>
+        <d:konklusion xml:space="preserve">Vedtaget
+
+108 stemmer for forslaget (V, S, DF, RV, SF, EL, LA, KF, UFG)
+
+0 stemmer imod forslaget
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar m:null="true" />
+        <d:mødeid m:type="Edm.Int32">17</d:mødeid>
+        <d:typeid m:type="Edm.Int32">2</d:typeid>
+        <d:sagstrinid m:null="true" />
+        <d:opdateringsdato m:type="Edm.DateTime">2014-09-09T09:05:59.653</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(2)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(2)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(2)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(2)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(2)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(2)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(2)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">2</d:id>
+        <d:nummer m:type="Edm.Int32">412</d:nummer>
+        <d:konklusion xml:space="preserve">Vedtaget
+
+98 stemmer for forslaget (V, S, DF, RV, SF, EL)
+
+10 stemmer imod forslaget (LA, KF)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar m:null="true" />
+        <d:mødeid m:type="Edm.Int32">18</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">4849</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2014-09-09T09:25:05.717</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(3)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(3)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(3)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(3)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(3)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(3)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(3)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">3</d:id>
+        <d:nummer m:type="Edm.Int32">1</d:nummer>
+        <d:konklusion xml:space="preserve">Vedtaget
+
+59 stemmer for forslaget (S, RV, SF, EL)
+
+54 stemmer imod forslaget (V, DF, LA, KF)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">41</d:mødeid>
+        <d:typeid m:type="Edm.Int32">3</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">17351</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2018-01-24T16:46:33.99</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(4)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(4)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(4)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(4)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(4)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(4)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(4)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">4</d:id>
+        <d:nummer m:type="Edm.Int32">7</d:nummer>
+        <d:konklusion xml:space="preserve">Vedtaget
+
+72 stemmer for forslaget (S, DF, RV, SF, EL)
+
+10 stemmer imod forslaget (LA, KF)
+
+26 stemmer hverken for eller imod forslaget (V)
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">156</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">18370</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2018-01-25T10:25:25.64</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(5)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(5)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(5)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(5)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(5)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(5)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(5)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">5</d:id>
+        <d:nummer m:type="Edm.Int32">412</d:nummer>
+        <d:konklusion xml:space="preserve">Vedtaget
+
+98 stemmer for forslaget (V, S, DF, RV, SF, EL)
+
+10 stemmer imod forslaget (LA, KF)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">18</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">4849</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.27</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(6)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(6)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(6)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(6)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(6)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(6)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(6)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">6</d:id>
+        <d:nummer m:type="Edm.Int32">410</d:nummer>
+        <d:konklusion xml:space="preserve">
+Vedtaget
+
+104 stemmer for forslaget (V, S, DF, RV, SF, EL, LA, KF, UFG)
+
+0 stemmer imod forslaget
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">15</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">16581</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.257</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(7)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(7)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(7)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(7)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(7)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(7)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(7)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">7</d:id>
+        <d:nummer m:type="Edm.Int32">408</d:nummer>
+        <d:konklusion xml:space="preserve">
+          Forkastet
+
+          4 stemmer for forslaget (KF)
+
+          57 stemmer imod forslaget (S, RV, SF, EL)
+
+          45 stemmer hverken for eller imod forslaget (V, DF, LA)
+
+        </d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">3311</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.247</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(8)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(8)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(8)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(8)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(8)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(8)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(8)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">8</d:id>
+        <d:nummer m:type="Edm.Int32">407</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+16 stemmer for forslaget (SF, EL)
+
+77 stemmer imod forslaget (V, S, RV, LA, KF)
+
+13 stemmer hverken for eller imod forslaget (DF)
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">3220</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.247</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(9)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(9)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(9)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(9)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(9)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(9)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(9)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">9</d:id>
+        <d:nummer m:type="Edm.Int32">404</d:nummer>
+        <d:konklusion xml:space="preserve">
+Vedtaget
+
+59 stemmer for forslaget (S, RV, SF, EL, KF)
+
+33 stemmer imod forslaget (V, LA)
+
+13 stemmer hverken for eller imod forslaget (DF)
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">4856</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.237</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(10)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(10)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(10)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(10)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(10)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(10)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(10)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">10</d:id>
+        <d:nummer m:type="Edm.Int32">405</d:nummer>
+        <d:konklusion xml:space="preserve">
+Vedtaget
+
+70 stemmer for forslaget (S, DF, RV, SF, EL)
+
+33 stemmer imod forslaget (V, KF)
+
+5 stemmer hverken for eller imod forslaget (LA)
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">2500</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.237</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(11)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(11)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(11)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(11)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(11)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(11)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(11)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">11</d:id>
+        <d:nummer m:type="Edm.Int32">406</d:nummer>
+        <d:konklusion xml:space="preserve">
+Vedtaget
+
+102 stemmer for forslaget (V, S, DF, RV, SF, EL, KF)
+
+5 stemmer imod forslaget (LA)
+
+3 stemmer hverken for eller imod forslaget (Stine Brix (EL), Christian Juhl (EL), Jørgen Arbo-Bæhr (EL))
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">true</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">3939</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.24</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(12)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(12)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(12)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(12)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(12)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(12)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(12)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">12</d:id>
+        <d:nummer m:type="Edm.Int32">400</d:nummer>
+        <d:konklusion xml:space="preserve">
+          Forkastet
+
+          26 stemmer for forslaget (DF, EL, LA)
+
+          81 stemmer imod forslaget (V, S, RV, SF, KF)
+
+          0 stemmer hverken for eller imod forslaget
+
+        </d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">15432</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.23</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(13)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(13)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(13)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(13)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(13)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(13)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(13)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">13</d:id>
+        <d:nummer m:type="Edm.Int32">401</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+51 stemmer for forslaget (V, DF, LA, KF)
+
+56 stemmer imod forslaget (S, RV, SF, EL)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">2808</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.23</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(14)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(14)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(14)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(14)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(14)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(14)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(14)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">14</d:id>
+        <d:nummer m:type="Edm.Int32">402</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+50 stemmer for forslaget (V, DF, LA, KF)
+
+57 stemmer imod forslaget (S, RV, SF, EL)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">14094</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.23</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(15)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(15)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(15)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(15)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(15)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(15)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(15)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">15</d:id>
+        <d:nummer m:type="Edm.Int32">403</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+51 stemmer for forslaget (V, DF, LA, KF)
+
+56 stemmer imod forslaget (S, RV, SF, EL)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">2864</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.23</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(16)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(16)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(16)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(16)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(16)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(16)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(16)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">16</d:id>
+        <d:nummer m:type="Edm.Int32">395</d:nummer>
+        <d:konklusion xml:space="preserve">
+          Forkastet
+
+          13 stemmer for forslaget (EL, LA)
+
+          94 stemmer imod forslaget (V, S, DF, RV, SF, KF)
+
+          0 stemmer hverken for eller imod forslaget
+
+        </d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">15432</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.22</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(17)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(17)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(17)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(17)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(17)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(17)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(17)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">17</d:id>
+        <d:nummer m:type="Edm.Int32">396</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+8 stemmer for forslaget (EL)
+
+99 stemmer imod forslaget (V, S, DF, RV, SF, LA, KF)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">2709</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.22</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(18)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(18)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(18)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(18)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(18)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(18)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(18)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">18</d:id>
+        <d:nummer m:type="Edm.Int32">397</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+50 stemmer for forslaget (V, DF, LA, KF)
+
+57 stemmer imod forslaget (S, RV, SF, EL)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">3120</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.22</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(19)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(19)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(19)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(19)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(19)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(19)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(19)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">19</d:id>
+        <d:nummer m:type="Edm.Int32">398</d:nummer>
+        <d:konklusion xml:space="preserve">
+          Forkastet
+
+          13 stemmer for forslaget (EL, LA)
+
+          94 stemmer imod forslaget (V, S, DF, RV, SF, KF)
+
+          0 stemmer hverken for eller imod forslaget
+
+        </d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">15432</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.223</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://oda.ft.dk/api/Afstemning(20)</id>
+    <category term="FT.Domain.Models.Afstemning" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://oda.ft.dk/api/Afstemning(20)" />
+    <link rel="self" href="http://oda.ft.dk/api/Afstemning(20)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Stemme" type="application/atom+xml;type=feed" title="Stemme" href="http://oda.ft.dk/api/Afstemning(20)/Stemme" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Afstemningstype" type="application/atom+xml;type=entry" title="Afstemningstype" href="http://oda.ft.dk/api/Afstemning(20)/Afstemningstype" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Møde" type="application/atom+xml;type=entry" title="Møde" href="http://oda.ft.dk/api/Afstemning(20)/M%C3%B8de" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Sagstrin" type="application/atom+xml;type=entry" title="Sagstrin" href="http://oda.ft.dk/api/Afstemning(20)/Sagstrin" />
+    <title />
+    <updated>2018-03-05T10:45:55Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">20</d:id>
+        <d:nummer m:type="Edm.Int32">399</d:nummer>
+        <d:konklusion xml:space="preserve">
+Forkastet
+
+51 stemmer for forslaget (V, DF, LA, KF)
+
+56 stemmer imod forslaget (S, RV, SF, EL)
+
+0 stemmer hverken for eller imod forslaget
+
+</d:konklusion>
+        <d:vedtaget m:type="Edm.Boolean">false</d:vedtaget>
+        <d:kommentar></d:kommentar>
+        <d:mødeid m:type="Edm.Int32">962</d:mødeid>
+        <d:typeid m:type="Edm.Int32">1</d:typeid>
+        <d:sagstrinid m:type="Edm.Int32">3496</d:sagstrinid>
+        <d:opdateringsdato m:type="Edm.DateTime">2017-08-10T12:57:52.227</d:opdateringsdato>
+      </m:properties>
+    </content>
+  </entry>
+  <link rel="next" href="http://oda.ft.dk/api/Afstemning?$inlinecount=allpages&amp;$format=xml&amp;$skip=20" />
+</feed>
