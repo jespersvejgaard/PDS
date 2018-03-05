@@ -1,0 +1,15 @@
+
+## Gode papers
+
+Big Data & Society
+American Economic Review
+American Political Science Review
+Journal of Economic Perspectives
+The Journal of Economic Perspectives
+PS: Political Science & Politics
+Alle papers, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. 
+
+
+## Andre kilder
+
+Dataverse (https://dataverse.harvard.edu/ ), som de fleste journals bruger til replikationsdata - herinde er tusindevis af datasæt til rådighed
