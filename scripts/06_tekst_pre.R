@@ -4,7 +4,7 @@
 ##################################
 
 # Loader pakker
-library(GuardianR)  # key til API fås her: https://redirect.viglink.com/?format=go&jsonp=vglnk_152078279327518&key=949efb41171ac6ec1bf7f206d57e90b8&libId=jemrk0vl01021u9s000DLjedif5ui&loc=https%3A%2F%2Fwww.r-bloggers.com%2Fa-tidytext-analysis-of-the-weinstein-effect%2F&v=1&out=http%3A%2F%2Fopen-platform.theguardian.com%2F&ref=https%3A%2F%2Fwww.google.dk%2F&title=A%20Tidytext%20Analysis%20of%20the%20Weinstein%20Effect%20%7C%20R-bloggers&txt=open%20source%20platform
+library(GuardianR)  # key til API fås her: https://bonobo.capi.gutools.co.uk/register/developer
 library(rvest)
 library(stringr)
 library(tidytext)
