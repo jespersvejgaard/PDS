@@ -10,7 +10,7 @@ PS: Political Science & Politics
 
 ## JETS 
  
-Papers fra journals, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. Se linket [her](https://www.dartstatement.org/2014-journal-editors-statement-jets). 
+Papers fra journals, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. Se link: https://www.dartstatement.org/2014-journal-editors-statement-jets
 
 
 ## Andre kilder
