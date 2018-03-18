@@ -7,7 +7,10 @@ American Political Science Review
 Journal of Economic Perspectives
 The Journal of Economic Perspectives
 PS: Political Science & Politics
-Alle papers, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. 
+
+## JETS 
+ 
+Papers fra journals, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. Se linket [her](https://www.dartstatement.org/2014-journal-editors-statement-jets). 
 
 
 ## Andre kilder
