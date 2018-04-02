@@ -1,0 +1,26 @@
+
+
+## Datakilder
+
+- Dataverse - bruges af de fleste journals til replikationsdata, her findes tusindevis af datasæt til rådighed (https://dataverse.harvard.edu/)
+- Dansk Data Arkiv - her findes bl.a. valgundersøgelserne (https://www.sa.dk/da/brug-arkivet/dda/)
+- Public APIs - toddmotto's liste over API'er (https://github.com/toddmotto/public-apis)
+- PolData - erikgahners samling af politologiske datasæt (https://github.com/erikgahner/PolData)
+- Kaggle
+- Gapminder
+- Eurostat
+
+
+## Journals til inspiration til replikationsstudier
+
+- Big Data & Society
+- American Economic Review
+- American Political Science Review
+- Journal of Economic Perspectives
+- The Journal of Economic Perspectives
+- PS: Political Science & Politics
+
+
+## JETS 
+ 
+- Papers fra journals, som er med i JETS (Journal Editors Transparency Statement), hvor der bør være replikationsdata til rådighed fra ca. 2015 og frem. Se link: https://www.dartstatement.org/2014-journal-editors-statement-jets
