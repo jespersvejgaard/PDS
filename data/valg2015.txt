@@ -1,0 +1,101 @@
+
+
+GENERELT:
+-- For dummies angivet 1 = ja og 0 = nej
+
+## koen
+-- 1 = mand, 2 = kvinde
+
+
+## alder
+-- respondentens alder
+
+
+## hjemmeboende_boern
+-- antal hjemmeboende børn
+
+
+## bor_med_partner
+-- bor respondenten med en partner
+
+
+## bystoerrelse
+-- mindre værdier angiver en større by
+
+
+## vigtigste_problem_*
+-- har respondenten angivet det givne problem som det vigtigste ifm valget
+
+
+## snakket_politik_seneste_uger
+-- har respondenten snakker politik inden for de seneste 3 uger med venner/familie
+
+
+## politisk_interesse
+-- mindre værdier angiver større interesse
+
+
+## opfordret_omgangskreds
+-- har en person i respondentens omgangskreds opfordret respondenten til at stemme på en bestemt kandidat eller et bestemt parti ifm. valget 
+
+
+## besoegt_partiers_hjemmeside
+-- har respondenten besøgt et politisk partis hjemmeside ifm. valget
+
+
+## foelger_politikere_facebook
+-- følger respondenten politikere på facebook
+
+
+## opfordret_andre_stemme_noget_bestemt
+-- har respendenten opfordret andre til at stemme noget bestemt
+
+
+## antal_dage_ser_nyheder
+-- mindre værdier = ser sjældnere nyheder
+
+
+## antal_dage_laeser_avis
+-- mindre værdier = læser sjældnere avis
+
+
+## partivalg
+-- dikotom variabel, som angiver, om respondenten har stemt venstreorienteret ifm Folketingsvalget 2015, hvor venstreorienteret er defineret som at have stemt på enten S, SF eller E 
+
+
+## videregående_uddannelse
+-- har respondenten eller er respondenten igang med en videregående uddannelse (erhvervsuddannelser tæller med)
+
+
+## helbred
+-- respondentens helbred hvor lavere værdier angiver bedre helbred
+
+
+## lønmodtager
+-- er respondenten lønmodtager
+
+
+## gift
+-- er respondenten gift
+
+
+## fraskilt
+-- er respondenten fraskilt
+
+
+## indkomst
+-- respondentens indkomst, hvor lavere værdier angiver lavere indkomst 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
