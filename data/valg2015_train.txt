@@ -1,0 +1,128 @@
+
+
+GENERELT:
+-- For dummies angivet 1 = ja og 0 = nej
+—- “Ved ikke” er kodet som NA i kontinuerte variable og som selvstændig kategori i kategoriske variable 
+
+
+
+## stemte_roedt
+-- Stemte på S, SF eller E ved seneste folketingsvalg i 2015 
+
+
+## koen
+-- 1 = mand, 2 = kvinde
+
+
+## alder
+-- respondentens alder
+
+
+## politisk_interesse
+-- mindre værdier angiver større interesse
+
+
+## antal_dage_ser_nyheder
+-- mindre værdier = ser sjældnere nyheder
+
+
+## antal_dage_laeser_avis
+-- mindre værdier = læser sjældnere avis
+
+
+## forsikring_naar_store_aedringer_i_livet_kon 
+-- mindre værdi = mest enig
+
+
+## boer_handle_modigt_kon
+-- mindre værdi = mest enig
+
+
+## lide_maerkelige_steder_kon
+-- mindre værdi = mest enig
+
+
+## lide_skraemmende_ting_kon
+-- mindre værdi = mest enig
+
+
+## lide_nye_erfaringer_kon
+-- mindre værdi = mest enig
+
+
+## foretraekker_uforudsigelighed_kon
+-- mindre værdi = mest enig
+
+
+## accepterer_risici_let_kon
+-- mindre værdi = mest enig
+
+
+## holdning_EU_kon
+-- lavere værdi = mere positiv
+
+
+## holdning_globalisering_kon
+-- lavere værdi = mere positiv
+
+
+## tilfred_med_liv
+-- 10 = mest tilfreds
+
+
+## stole_paa_de_fleste
+-- 1 = ja
+
+
+## holdning_hv_placering
+-- 0 = venstre, 10 = højre, 88 = ved ikke
+
+
+## holdning_antal_flygtnigne 
+# 1 = færre, 5 = flere
+
+
+## holdning_stoerrelse_off_sektor
+# 1 = mindre, 5 = større
+
+
+## holdning_groen_politik 
+# 1 = mindre grøn, 5 = meget grøn
+
+
+## holdning_strengere_straffe
+-- 1 = går ind for strengere straffe, 5 = forebyggelse og human behandling 
+
+
+## holdning_lighed  
+-- 1 = går ind for høj grad lighed, 5 = ulighed unødvendigt 
+
+
+## andel_befolkning_muslimer
+-- Hvor stor andel af den danske befolkning tror du er muslimer? Større tal indikerer større andel. 
+
+
+## indkomst
+-- større tal = højere indkomst
+
+
+## husstands_indkomst
+-- større tal = højere indkomst
+
+
+## skoleuddannelse_gennemfoert
+-- faktor-variabel
+
+
+## fuldfoert_videre_uddannelse
+-- faktor-variabel
+
+
+## beskaeftigelse
+-- faktor-variabel 
+
+
+## civilstand
+-- faktor-variabel 
+
+
