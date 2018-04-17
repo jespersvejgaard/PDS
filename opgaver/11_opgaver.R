@@ -16,7 +16,7 @@ valg2015_test <- import("https://github.com/jespersvejgaard/PDS/raw/master/data/
 
 
 ## KODEBOG
-## Find kodebogen på GitHub! 
+## Find kodebogen valg2015_train.txt på GitHub 
 
 
 ###########################################
@@ -75,12 +75,12 @@ m_glm <- train(
 
 ## KLASSIFIKATIONSTRÆ
 m_tree <- train(
-  stemte_roedt ~ .,                                              # modellens formula
-  data = valg2015_train,                                         # datasættet 
-  metric = "ROC",                                                # performancemål, som skal optimeres 
-  method = "rpart",                                              # algoritme, her et klassifikationstræ
-  trControl = controls,                                          # sætter controls for træningen 
-  tuneGrid = expand.grid(cp = 10^(seq(-3, 0, length = 40)))      # definerer grid af parameter-værdier til tuning, her afprøver 40 værdier i intervallet cp = 0.001 til cp = 1
+  stemte_roedt ~ .,                                              
+  data = valg2015_train,                                         
+  metric = "ROC",                                                
+  method = "rpart",                                              
+  trControl = controls,                                          
+  tuneGrid = expand.grid(cp = c(0.001, 0.01, 0.1, 1))      
 )
 
 
@@ -88,12 +88,22 @@ m_tree <- train(
 ## CHALLENGE: TRÆN FLERE MODELLER
 ###########################################
 
-## Fx glmnet (rdige/lasso), ranger (RF), xgbTree (gradient boosted trees), nnet (neuralt netværk)
+## Fx glmnet (ridge/lasso), ranger (RF), xgbTree (gradient boosted trees), nnet (neuralt netværk)
 ## ... 
-
 
 ## TIP: TJEK TUNINGSPARAMETRE 
 modelLookup(model = "xgbTree")
+
+
+## NY ALGORITME
+m_algoritme <- train(
+  stemte_roedt ~ .,                                              
+  data = valg2015_train,                                         
+  metric = "ROC",                                                
+  method = "___",                                              
+  trControl = controls,                                          
+  tuneGrid = expand.grid(___)      
+)
 
 
 
@@ -111,6 +121,7 @@ m_tree
 ## MODELLENS MAKSIMALE ROC (AUC)
 max(m_glm$results$ROC)
 max(m_tree$results$ROC)
+max(___$results$ROC)
 
 
 ## PLOTTER MODELLENS PERFORMANCE PÅ TVÆR AF VÆRDIER I TUNING GRID
@@ -132,6 +143,14 @@ dotplot(resamples, metric = "ROC")  # plotter modellernes performance og usikker
 ## BONUS: PERFORMANCE I TESTSÆTTET   
 ###########################################
 ###########################################
+
+## Nedenstående script kan bruges, hvis man vil eksperimentere med at bruge de modeller, 
+## vi har trænet ovenfor, til at prædiktere outcome i testsættet, valg2015_test. 
+
+## Det vil man formentlig få brug for i den virkelige verden. Kig på koden nedenfor, 
+## hvis det har interesse. 
+
+
 
 ###########################################
 ## PERFORMANCE I TESTSÆTTET 1: ACCURACY  
