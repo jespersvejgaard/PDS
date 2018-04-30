@@ -135,6 +135,13 @@ Bedømmelsesform og censur
 - Opgaven bedømmes på 7-trinsskalaen uden ekstern censur 
 
 
+## Eksamensfrister
+
+* 28/05-18: Frist for aflevering af seminaropgave (1. afleveringsfrist)
+* 05/06-18: Frist for 1. genindlevering af seminaropgave (2. afleveringsfrist)
+* 11/06-18: Frist for 2. genindlevering af seminaropgave (3. afleveringsfrist)
+
+
 ## Kriterier for bedømmelse
 
 Karakter | Beskrivelse 
