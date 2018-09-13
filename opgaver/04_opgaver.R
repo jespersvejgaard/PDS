@@ -1,7 +1,7 @@
 
 
 ######################################################
-# PRÆAMBEL
+# PR??AMBEL
 ######################################################
 
 # LOADER PAKKER
@@ -19,16 +19,34 @@ seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/
 # OPGAVER
 ######################################################
 
-# Bemærk: Bliver ae, ao og aa skrevet forkert? Så klik filer -> reopen with encoding -> vælg UTF-8 -> sæt flueben i "Set as default..." -> OK
+# Bem??rk: Bliver ae, ao og aa skrevet forkert? S?? klik filer -> reopen with encoding -> v??lg UTF-8 -> s??t flueben i "Set as default..." -> OK
 
-# 1. Eksekvér præamblen ovenfor 
+# 1. Eksekv??r pr??amblen ovenfor 
 # 2. Skriv en funktion, som tager to vektorer som argumenter, summerer dem og returnerer resultatet. 
-# 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.  
+
+ funktion_1 <- function(arg1, arg2, arg3) {
+     sum(arg1 + arg2 + arg3)
+    }
+ funktion_1(x, y, z)
+
+# 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.
+ 
+ funktion_2 <- function(arg1) {
+   if (arg1 > 30) {
+   sd(arg1)
+   }
+   if (arg1 < 30) {
+     "N er under 30!"
+   }
+ }
+ 
+ funktion_2(y)
+ 
 # 4. Skriv et for-loop, som looper igennem alle kolonnerne i dataframen `seats` og beregner partiernes gennemsnitlige antal mandater
 # 5. Brug `lapply()`, `sapply()`, `vapply()` eller `map_dbl()` til at beregne det samme
 # 6. Skriv en funktion, som simulerer et terningekast (hint: `sample()`)
-# 7. Skriv et while-loop, som eksekverer funktionen terningekast indtil du har slået 3 seksere i streg. Hvor mange gange skal du slå, for at det sker?  
-# 8. Wrap dit while-loop i et for-loop, og slå 3 seksere i streg 100 gange. Hvor mange slags skal du bruge i gennemsnit? 
+# 7. Skriv et while-loop, som eksekverer funktionen terningekast indtil du har sl??et 3 seksere i streg. Hvor mange gange skal du sl??, for at det sker?  
+# 8. Wrap dit while-loop i et for-loop, og sl?? 3 seksere i streg 100 gange. Hvor mange slags skal du bruge i gennemsnit? 
 
 
 
