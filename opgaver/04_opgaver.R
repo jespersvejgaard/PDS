@@ -12,8 +12,7 @@ x <- rnorm(10)
 y <- rnorm(30)
 z <- rnorm(90)
 
-seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/data/seats.csv")
-
+seats <- read.csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/data/seats.csv")
 
 ######################################################
 # OPGAVER
@@ -23,7 +22,20 @@ seats <- read_csv("https://raw.githubusercontent.com/jespersvejgaard/PDS/master/
 
 # 1. Eksekvér præamblen ovenfor 
 # 2. Skriv en funktion, som tager to vektorer som argumenter, summerer dem og returnerer resultatet. 
-# 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.  
+sum_vek <- function(a, b){
+  sum(a,b)
+}
+sum_vek(x,y)
+
+# 3. Skriv en funktion, som tager en vektor som argument, og som beregner standardafvigelsen 
+#hvis n > 30, og ellers printer "N er under 30!" og afbryder (hint: `break`). Test med vektorerne `x`, `y`, `z` ovenfor.  
+standard_vek <- funktion(a){
+  if (n > 30) {
+  return(sd(a))}
+  else {"N er under 30!"}
+  break 
+}
+
 # 4. Skriv et for-loop, som looper igennem alle kolonnerne i dataframen `seats` og beregner partiernes gennemsnitlige antal mandater
 # 5. Brug `lapply()`, `sapply()`, `vapply()` eller `map_dbl()` til at beregne det samme
 # 6. Skriv en funktion, som simulerer et terningekast (hint: `sample()`)
